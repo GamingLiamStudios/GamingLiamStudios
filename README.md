@@ -1,5 +1,7 @@
 <a href="https://github.com/GamingLiamStudios">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=GamingLiamStudios&show_icons=true&theme=dark&count_private=true" />
+</a>
+<a href="https://github.com/GamingLiamStudios">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingLiamStudios&theme=dark&layout=compact" />
 </a>
 
