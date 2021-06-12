@@ -8,7 +8,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV0002&theme=dark&layout=compact" />
 </a>
 
-[![GamingLiamStudios' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GamingLiamStudios&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=@GamingLiamStudios&theme=dark&layout=compact" />
+</a>
 
 <!--
 **GamingLiamStudios/GamingLiamStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
