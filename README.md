@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GLS&api_domain=wakapi.glstudios.org&show_icons=true&theme=dark&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GamingLiamStudios&show_icons=true&theme=dark&count_private=true" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamingLiamStudios&theme=dark&layout=compact" />
 </a>
 
